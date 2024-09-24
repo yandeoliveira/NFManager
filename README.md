@@ -2,12 +2,12 @@
 Uma interface gráfica de usuário para gerenciar produtos e gerar notas fiscais.                                                    
 
 **Descrição**                                    
-Este aplicativo permite que os usuários adicionem, removam e gerenciem produtos, além de gerar uma nota fiscal com o custo total dos produtos. A GUI é construída usando Tkinter e utiliza um banco de dados SQLite para armazenar informações de produtos.
+Este aplicativo permite que os usuários adicionem, removam e gerenciem produtos, além de gerar uma nota fiscal com o custo total dos produtos. A GUI é construída usando `Tkinter` e utiliza um banco de dados `SQLite` para armazenar informações de produtos.
 
 **Recursos**                                                          
-Adicionar produtos com nome, preço e quantidade;                                                                                                               
-Remoção de produtos por ID;                                                                                                                                                                
-Geração de nota fiscal com o custo total dos produto;                                                                                                       
+Adicionar produtos com `nome`, `preço` e `quantidade`;                                                                                                               
+Remoção de produtos por `ID`;                                                                                                                                                                
+Geração de nota fiscal com o custo total dos `produtos`;                                                                                                       
 Interface de usuário amigável com botões interativos e campos de texto.                                                                                                                                         
 
 **Uso**                                                                               
@@ -18,9 +18,9 @@ Interface de usuário amigável com botões interativos e campos de texto.
    *A nota fiscal será exibida no campo de texto abaixo.*
 
 **Detalhes Técnicos**                                                                                                                                                          
-- O aplicativo usa Tkinter para a GUI e SQLite para o banco de dados.                                                                              
-- A classe NotaFiscal gerencia a conexão do banco de dados e os dados dos produtos.                                                                                  
-- A classe NotaFiscalGUI cria a GUI e manipula a entrada do usuário.                                                                                                                                 
+- O aplicativo usa `Tkinter` para a `GUI` e `SQLite` para o banco de dados.                                                                              
+- A classe `NotaFiscal` gerencia a conexão do banco de dados e os dados dos produtos.                                                                                  
+- A classe `NotaFiscalGUI` cria a `GUI` e manipula a entrada do usuário.                                                                                                                                 
 
 **Licença**                                                                                 
 Este aplicativo é licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
