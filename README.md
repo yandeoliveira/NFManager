@@ -1,5 +1,5 @@
-**Nota Fiscal GUI**                                                       
-Uma interface gráfica de usuário para gerenciar produtos e gerar notas fiscais.
+**NFManager**                                                                                           
+Uma interface gráfica de usuário para gerenciar produtos e gerar notas fiscais.                                                    
 
 **Descrição**                                    
 Este aplicativo permite que os usuários adicionem, removam e gerenciem produtos, além de gerar uma nota fiscal com o custo total dos produtos. A GUI é construída usando Tkinter e utiliza um banco de dados SQLite para armazenar informações de produtos.
