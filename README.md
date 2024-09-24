@@ -5,10 +5,10 @@ Uma interface gráfica de usuário para gerenciar produtos e gerar notas fiscais
 Este aplicativo permite que os usuários adicionem, removam e gerenciem produtos, além de gerar uma nota fiscal com o custo total dos produtos. A GUI é construída usando Tkinter e utiliza um banco de dados SQLite para armazenar informações de produtos.
 
 **Recursos**                                                          
-Adicione produtos com nome, preço e quantidade;                                                                                                               
-Remova produtos por ID;                                                                                                                                                                
-Gere uma nota fiscal com o custo total dos produto;                                                                                                       
-Interface de usuário amigável com botões e campos de texto.                                                                                                                                         
+Adicionar produtos com nome, preço e quantidade;                                                                                                               
+Remoção de produtos por ID;                                                                                                                                                                
+Geração de nota fiscal com o custo total dos produto;                                                                                                       
+Interface de usuário amigável com botões interativos e campos de texto.                                                                                                                                         
 
 **Uso**                                                                               
 1- Execute o aplicativo executando o arquivo `programa_final.exe`, da pasta `build` *(baixe a pasta zipada `FInal` em seu computador para acessar a pasta).*                                                         
