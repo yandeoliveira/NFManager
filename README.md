@@ -11,7 +11,7 @@ Gere uma nota fiscal com o custo total dos produto;
 Interface de usuário amigável com botões e campos de texto.                                                                                                                                         
 
 **Uso**                                                                               
-1- Execute o aplicativo executando o arquivo `programa_final.exe`, da pasta `build` *(baixe a pasta zipada em seu computador).*                                                             
+1- Execute o aplicativo executando o arquivo `programa_final.exe`, da pasta `build` *(baixe a pasta zipada `FInal` em seu computador para acessar a pasta).*                                                         
 2- Adicione produtos preenchendo os campos de nome, preço e quantidade e clicando no botão "Adicionar produto".     
 3- Remova produtos inserindo o ID do produto e clicando no botão "Excluir produto".                            
 4- Gere uma nota fiscal clicando no botão "Atualizar nota fiscal".                                                          
