@@ -29,4 +29,4 @@ Este aplicativo é licenciado sob a Licença MIT. Veja o arquivo LICENSE para de
 *[Yan de Oliveira]*
 
 
-*Arquivos de código e aplicativo em outra branch do repositório *
+*Arquivos de código e aplicativo em outra branch do repositório*
