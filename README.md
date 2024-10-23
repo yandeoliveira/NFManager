@@ -40,7 +40,6 @@ Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais 
 2- Adicione produtos preenchendo os campos de nome, preço e quantidade e clicando no botão "Adicionar produto".     
 3- Remova produtos inserindo o `ID` do produto e clicando no botão "Excluir produto".                            
 4- Gere uma nota fiscal clicando no botão "Atualizar nota fiscal".                                                          
-      *A nota fiscal será exibida no campo de texto abaixo.*
 
 #  Detalhes Técnicos                                                                                                                                                       
 - O aplicativo usa `Tkinter` para a `GUI` e `SQLite` para o banco de dados.                                                                              
