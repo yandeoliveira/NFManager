@@ -29,12 +29,6 @@ O código é dividido em duas classes principais:
 - Python 3.x
 - Bibliotecas: `tkinter`, `sqlite3`
 
-# Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-# Licença
-Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.                                                                                                                                    
-
 # Uso                                                                      
 
 1- Execute o aplicativo executando o arquivo `programa_final.exe`, da pasta `build`                                                            
@@ -47,7 +41,14 @@ Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais 
 #  Detalhes Técnicos                                                                                                                                                       
 - O aplicativo usa `Tkinter` para a `GUI` e `SQLite` para o banco de dados.                                                                              
 - A classe `NotaFiscal` gerencia a conexão do banco de dados e os dados dos produtos.                                                                                  
-- A classe `NotaFiscalGUI` cria a `GUI` e manipula a entrada do usuário.                                                                                                                                 
+- A classe `NotaFiscalGUI` cria a `GUI` e manipula a entrada do usuário.
+
+  
+# Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+# Licença
+Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.                                                                                                                                                                                                                                                  
 
 
 (Arquivos de código e aplicativo em outra branch do repositório)
