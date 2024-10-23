@@ -14,9 +14,15 @@ Este aplicativo permite que os usuários adicionem, removam e gerenciem produtos
 ## Estrutura do Código
 
 O código é dividido em duas classes principais:
+```  
+    NotaFiscal
+```  
+   Responsável pela lógica de negócios, incluindo a conexão com o banco de dados SQLite e operações de CRUD (Criar, Ler, Atualizar, Excluir) para os produtos.
 
-1. **NotaFiscal**: Responsável pela lógica de negócios, incluindo a conexão com o banco de dados SQLite e operações de CRUD (Criar, Ler, Atualizar, Excluir) para os produtos.
-2. **NotaFiscalGUI**: Responsável pela interface gráfica do usuário, permitindo interação através de botões e campos de entrada.
+```
+   NotaFiscalGUI
+```  
+ Responsável pela interface gráfica do usuário, permitindo interação através de botões e campos de entrada.
 
 ## Requisitos
 
