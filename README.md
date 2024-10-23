@@ -36,10 +36,11 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.                                                                                                                                    
 
 # Uso                                                                               
-1- Execute o aplicativo executando o arquivo `programa_final.exe`, da pasta `build` *(baixe a pasta zipada `FInal` em seu computador para acessar a pasta).*                                                         
+1- Execute o aplicativo executando o arquivo `programa_final.exe`, da pasta `build`                                                    
 2- Adicione produtos preenchendo os campos de nome, preço e quantidade e clicando no botão "Adicionar produto".     
 3- Remova produtos inserindo o `ID` do produto e clicando no botão "Excluir produto".                            
-4- Gere uma nota fiscal clicando no botão "Atualizar nota fiscal".                                                          
+4- Gere uma nota fiscal clicando no botão "Atualizar nota fiscal". 
+**(Obs:. baixe a pasta zipada `FInal` em seu computador para acessar a pasta)**                  
 
 #  Detalhes Técnicos                                                                                                                                                       
 - O aplicativo usa `Tkinter` para a `GUI` e `SQLite` para o banco de dados.                                                                              
