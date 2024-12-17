@@ -29,7 +29,7 @@ O código é dividido em duas classes principais:
 - Python 3.x
 - Bibliotecas: `tkinter`, `sqlite3`
 
-# Uso                                                                      
+## Uso                                                                      
 
 1- Execute o aplicativo executando o arquivo `programa_final.exe`, da pasta `build`                                                            
 **(Obs:. baixe a pasta zipada `FInal` em seu computador para acessar a pasta)**                  
@@ -38,17 +38,21 @@ O código é dividido em duas classes principais:
 3- Remova produtos inserindo o `ID` do produto e clicando no botão "Excluir produto".                            
 4- Gere uma nota fiscal clicando no botão "Atualizar nota fiscal". 
 
-#  Detalhes Técnicos                                                                                                                                                       
+##  Detalhes Técnicos                                                                                                                                                       
 - O aplicativo usa `Tkinter` para a `GUI` e `SQLite` para o banco de dados.                                                                              
 - A classe `NotaFiscal` gerencia a conexão do banco de dados e os dados dos produtos.                                                                                  
 - A classe `NotaFiscalGUI` cria a `GUI` e manipula a entrada do usuário.
 
   
-# Contribuições
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-# Licença
-Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.                                                                                                                                                                                                                                                  
+## Licença
+Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.       
 
+## Contato
+Para mais informações entre em contato [yansantos2410@gmail.com]
+Desenvolvedor: Yan de Oliveira
 
-(Arquivos de código e aplicativo em outra branch do repositório)
+## Informações adicionais
+Código fonte do aplicativo e executavel se encontram em outra branch do repositório.
